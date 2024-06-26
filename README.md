@@ -1,72 +1,108 @@
-<h1 align="center">👋 Hello, I'm 0xTXdev</h1>
+<h1 align="center">Welcome to 0xTXdev's Blockchain Universe 🌌</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+%2B+Blockchain+Developer;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Blockchain+Enthusiast;Smart+Contract+Wizard;Web3+Innovator&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xTXdev">
-    <img src="https://img.shields.io/github/followers/0xTXdev?label=Followers" alt="followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=0xTXdev" alt="profile views" /> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Blockchain%20Projects&query=count&url=https://api.github.com/search/repositories?q=user:0xTXdev+topic:blockchain" alt="Blockchain Projects"/>
+  <img src="https://komarev.com/ghpvc/?username=0xTXdev&color=blueviolet" alt="Profile views"/>
 </p>
 
 ## 🚀 About Me
 
-I'm a passionate developer bridging the gap between traditional web development and blockchain technologies. My mission is to create innovative, secure, and scalable decentralized applications.
+Passionate full stack developer with a focus on blockchain technology. I bridge the gap between traditional web development and the decentralized world, creating innovative solutions that push the boundaries of what's possible.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 I'm currently working on a cross-chain DeFi protocol
-- 🌱 I'm currently learning Zero-Knowledge Proofs
-- 💬 Ask me about blockchain, smart contracts, or fullstack development
-- 📫 How to reach me: [@0xTXdev](https://twitter.com/0xTXdev)
+- 🔭 Currently working on: A cross-chain DeFi protocol
+- 🌱 Learning: Zero-Knowledge Proofs and Layer 2 scaling solutions
+- 💡 Always interested in: Collaborating on groundbreaking blockchain projects
 
 ## 💻 Tech Stack
 
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+## 🏆 Blockchain Achievements
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Smart%20Contracts-50%2B-blue?style=for-the-badge" alt="Smart Contracts"/>
+      <br />
+      Deployed on multiple chains
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DeFi%20Protocols-10%2B-green?style=for-the-badge" alt="DeFi Protocols"/>
+      <br />
+      Innovative financial solutions
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/NFT%20Projects-5%2B-red?style=for-the-badge" alt="NFT Projects"/>
+      <br />
+      Unique digital assets
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xTXdev&show_icons=true&theme=radical" alt="0xTXdev's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTXdev&theme=radical" alt="0xTXdev's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTXdev&theme=radical" alt="0xTXdev's GitHub streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xTXdev&theme=darkhub&no-frame=true&row=1&column=6" alt="0xTXdev's GitHub trophies"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 🔥 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Cross-Chain DEX</h3>
+      <p align="center">
+        A decentralized exchange enabling trades across multiple blockchains.
+        <br/><br/>
+        <a href="https://github.com/0xTXdev/cross-chain-dex">
+          <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">NFT Marketplace</h3>
+      <p align="center">
+        A platform for minting, buying, and selling unique digital assets.
+        <br/><br/>
+        <a href="https://github.com/0xTXdev/nft-marketplace">
+          <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xTXdev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="0xTXdev's GitHub trophies" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=0xTXdev&theme=react-dark" alt="Contribution Graph" width="100%"/>
 </p>
 
-## 🔝 Top Contributed Repos
+## 🌱 Current Learning Path
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=0xTXdev&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="0xTXdev's top contributed repos" />
-</p>
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/0xTXdev/0xTXdev/blob/output/github-contribution-grid-snake.svg)
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/0xTXdev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/0xTXdev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://0xTXdev.medium.com"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-</p>
+- Advanced Zero-Knowledge Proof implementations
+- Scalability solutions for Ethereum
+- Cross-chain interoperability protocols
+- AI integration in smart contract auditing
 
 ---
 
-⭐️ From [0xTXdev](https://github.com/0xTXdev)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+the+decentralized+future+together!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
