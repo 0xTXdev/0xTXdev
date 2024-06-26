@@ -54,11 +54,29 @@ Innovative developer passionate about creating cutting-edge blockchain solutions
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xTXdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xTXdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xTXdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <br/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xTXdev&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTXdev&theme=radical&border=7F3FBF&background=0D1117" alt="0xTXdev's GitHub streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xTXdev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xTXdev&theme=radical" alt="0xTXdev's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/0xTXdev"><img alt="0xTXdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=0xTXdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/0xTXdev"><img alt="0xTXdev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xTXdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xTXdev&custom_title=0xTXdev's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="0xTXdev's Graph" />
 </p>
 
 ## 🔥 Featured Projects
