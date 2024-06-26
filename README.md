@@ -8,7 +8,7 @@ I'm a passionate developer with expertise in both traditional web development an
 
 - **Frontend**: React.js, Vue.js, Next.js, TypeScript, HTML5, CSS3, Sass
 - **Backend**: Node.js, Express, Python, Django, GraphQL
-- **Blockchain**: Solidity, Web3.js, Ethers.js, Truffle, Hardhat
+- **Blockchain**: Solidity, Rust, Web3.js, Ethers.js, Truffle, Hardhat
 - **Databases**: MongoDB, PostgreSQL, Redis
 - **DevOps**: Docker, Kubernetes, AWS, CI/CD pipelines
 - **Testing**: Jest, Mocha, Chai
