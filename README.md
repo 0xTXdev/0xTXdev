@@ -1,142 +1,126 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=435&lines=0xTXdev;Fullstack%2B+Developer;Blockchain+Innovator" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Blockchain+Lab!;I'm+0xTXdev&center=true&size=30">
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/0xTXdev/visits" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Commits-1515%2B-blue" alt="Commits" />
-  <img src="https://img.shields.io/badge/Repositories-42-orange" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Blockchain%20Projects-13-blueviolet" alt="Blockchain Projects" />
+  <img src="https://img.shields.io/badge/Blockchain-Expert-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-Wizard-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeFi-Innovator-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web3-Pioneer-blueviolet?style=for-the-badge" />
 </p>
 
-<h2 align="center">🚀 Fullstack Developer | Blockchain Enthusiast | Web3 Pioneer 🚀</h2>
+## 🚀 About Me
+
+Passionate fullstack developer with a focus on blockchain technology. I specialize in creating innovative decentralized solutions that bridge the gap between traditional systems and the Web3 ecosystem.
+
+- 🔭 Currently working on: [Your Current Project]
+- 🌱 Learning: [What You're Learning]
+- 👯 Looking to collaborate on: [Types of Projects]
+- 💬 Ask me about: Blockchain, DeFi, Smart Contracts, Fullstack Development
+
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTXdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 💡 About Me
+## 🏆 Blockchain Expertise
 
-Innovative developer passionate about creating cutting-edge blockchain solutions and pushing the boundaries of decentralized technologies.
+- **Smart Contract Development**: [Brief description of your expertise]
+- **DeFi Protocol Design**: [Brief description of your expertise]
+- **Token Economics**: [Brief description of your expertise]
+- **Cross-Chain Solutions**: [Brief description of your expertise]
+- **NFT Platforms**: [Brief description of your expertise]
 
-- 🔭 Currently building: A cross-chain DeFi aggregator
-- 🌱 Exploring: Zero-Knowledge Proofs and Layer 2 scaling
-- 💬 Ask me about: Blockchain, Smart Contracts, DeFi, and Fullstack Development
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,typescript,react,nodejs,express,mongodb,docker,aws&theme=dark" alt="Tech Stack" />
-</p>
-
-## 🏆 Blockchain Mastery
+## 🌟 Featured Projects
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Smart%20Contracts-75%2B-blue?style=for-the-badge" alt="Smart Contracts"/>
-      <br />
-      Deployed & Audited
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <p align="center">
+        <a href="PROJECT_1_LINK" target="_blank">
+          <img src="PROJECT_1_IMAGE_LINK" alt="Project 1" height="200">
+        </a>
+        <br>
+        <a href="PROJECT_1_REPO" target="_blank">
+          <img src="https://img.shields.io/badge/Code-On%20GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+        <a href="PROJECT_1_LIVE_LINK" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=web">
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> [Technologies used]</p>
+      <p>[Brief description of the project and your role]</p>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/DeFi%20Protocols-15%2B-green?style=for-the-badge" alt="DeFi Protocols"/>
-      <br />
-      Innovative & Secure
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/NFT%20Collections-10%2B-red?style=for-the-badge" alt="NFT Collections"/>
-      <br />
-      Unique & Engaging
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <p align="center">
+        <a href="PROJECT_2_LINK" target="_blank">
+          <img src="PROJECT_2_IMAGE_LINK" alt="Project 2" height="200">
+        </a>
+        <br>
+        <a href="PROJECT_2_REPO" target="_blank">
+          <img src="https://img.shields.io/badge/Code-On%20GitHub-blue?style=for-the-badge&logo=github">
+        </a>
+        <a href="PROJECT_2_LIVE_LINK" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=web">
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> [Technologies used]</p>
+      <p>[Brief description of the project and your role]</p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xTXdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xTXdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTXdev&theme=radical" alt="0xTXdev's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTXdev&theme=radical&border=7F3FBF&background=0D1117" alt="0xTXdev's GitHub streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xTXdev&theme=darkhub&no-frame=true&row=1&column=7" alt="0xTXdev's GitHub Trophy"/>
 </p>
 
+## 🎓 Certifications & Achievements
+
+- [Certification 1]
+- [Certification 2]
+- [Achievement 1]
+- [Achievement 2]
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post 1]
+- [Blog Post 2]
+- [Blog Post 3]
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Let's Connect
+
 <p align="center">
-  <a href="https://github.com/0xTXdev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xTXdev&theme=radical" alt="0xTXdev's GitHub Contribution"/>
+  <a href="YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_TWITTER_PROFILE">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="YOUR_PERSONAL_WEBSITE">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
-<a> 
-  <a href="https://github.com/0xTXdev"><img alt="0xTXdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=0xTXdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/0xTXdev"><img alt="0xTXdev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xTXdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xTXdev&custom_title=0xTXdev's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="0xTXdev's Graph" />
-</p>
-
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">DeFi Yield Optimizer</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/250x150.png?text=DeFi+Yield+Optimizer" width="250" alt="Project 1" />
-        </a>
-        <br/>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-2196F3?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">NFT Marketplace</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/250x150.png?text=NFT+Marketplace" width="250" alt="Project 2" />
-        </a>
-        <br/>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-2196F3?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xTXdev&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
-## 🌱 Current Learning Path
-
-- 🧠 Advanced Zero-Knowledge Proof implementations
-- 🚀 Ethereum Layer 2 scaling solutions
-- 🌉 Cross-chain interoperability protocols
-- 🤖 AI-powered smart contract auditing
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=435&lines=Let's+build+the+future+of+Web3!;Connect+with+me+for+collaborations" alt="Closing Message" />
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=0xTXdev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
