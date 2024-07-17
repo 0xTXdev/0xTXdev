@@ -1,6 +1,6 @@
 # 👋 Hello, I'm 0xTXdev
 
-## 🚀 Fullstack+ Blockchain Developer
+## 🚀 Blockchain Developer
 
 I'm a passionate developer with expertise in both traditional web development and cutting-edge blockchain technologies. My goal is to bridge the gap between conventional systems and decentralized solutions, creating innovative and secure applications.
 
